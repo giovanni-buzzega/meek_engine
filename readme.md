@@ -24,9 +24,9 @@ An interactive Python toolkit (`v8.py`) for constructing and exploring **Bayesia
 Python 3.8+ is required. The core engine runs using only the Python standard library and includes a built-in standalone `vis-network` HTML fallback, so no external packages are strictly required. For full Jupyter Notebook integration with a virtual environment:
 
 ```bash
-python3 -m venv meek_engine
+python3 -m venv meek_venv
 
-source meek_engine/bin/activate
+source meek_venv/bin/activate
 
 pip install --upgrade pip
 

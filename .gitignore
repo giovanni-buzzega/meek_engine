@@ -1,6 +1,6 @@
 # Virtual environment
-.meek_engine/
-meek_engine/
+.meek_venv/
+meek_venv/
 ENV/
 
 # Jupyter Notebook checkpoints
